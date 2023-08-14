@@ -1,0 +1,10 @@
+# File types
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# Directories
+build/
