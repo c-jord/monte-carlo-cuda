@@ -7,4 +7,5 @@
 *.fatbin
 
 # Directories
+.vscode/
 build/
